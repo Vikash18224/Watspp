@@ -4,5 +4,8 @@ public class Helloworld {
         System.out.println("Hi Vikash");
         System.out.println("Hi Virat");
         System.out.println("How are you guys");
+        System.out.pritln("1234567890");
+        System.out.println("1234567890");
+        System.out.println("1234567890");
     }
 }
